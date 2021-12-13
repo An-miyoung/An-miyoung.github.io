@@ -5,7 +5,7 @@ keywords: null
 author: 안미영
 language: ko
 timezone: "Asia/Seoul"
-url: http://example.com
+url: https://an-miyoung.github.io/
 permalink: ":year/:month/:day/:title/"
 permalink_defaults: null
 pretty_urls:
